@@ -12,4 +12,6 @@ git clone https://github.com/cood-filter-rubika/time
 
 cd time وارد دایرکتوری شوید و با دستور 
 
-python tiem.py اسکریپت را اجرا کنید
+python tiem.py
+
+اسکریپت را اجرا کنید
